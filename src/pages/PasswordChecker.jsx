@@ -1,7 +1,7 @@
 // src/pages/PasswordChecker.jsx
 import { useState } from "react";
 import StrengthMeter from "../components/StrengthMeter";
-import { checkPasswordStrength } from "../utils/passwordUtils";
+import { checkPasswordStrength } from "../utils/password strenth utils";
 import { motion } from "framer-motion";
 
 const PasswordChecker = () => {
